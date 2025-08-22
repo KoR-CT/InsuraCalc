@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "brand": "InsuraCalc.com",
+    "home": "Home",
+    "calculator": "Calculator",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Get Instant Insurance Estimates – Anywhere, Anytime",
+    "subtitle": "Calculate insurance costs for car, home, health, travel, life, and business coverage across multiple countries",
+    "cta": "Calculate Now",
+    "trusted": "Trusted by thousands of users worldwide"
+  },
+  "calculator": {
+    "title": "Insurance Calculator",
+    "subtitle": "Get accurate estimates for your insurance needs",
+    "form": {
+      "insuranceType": "Insurance Type",
+      "country": "Country",
+      "age": "Age",
+      "value": "Value",
+      "location": "Location",
+      "coverage": "Coverage Level",
+      "calculate": "Calculate Insurance",
+      "reset": "Reset Form"
+    },
+    "types": {
+      "car": "Car Insurance",
+      "home": "Home Insurance",
+      "health": "Health Insurance",
+      "travel": "Travel Insurance",
+      "life": "Life Insurance",
+      "business": "Business Insurance"
+    },
+    "countries": {
+      "USA": "United States",
+      "England": "England",
+      "Europe": "Europe",
+      "Australia": "Australia",
+      "Russia": "Russia"
+    },
+    "coverage": {
+      "basic": "Basic",
+      "standard": "Standard",
+      "premium": "Premium",
+      "comprehensive": "Comprehensive"
+    }
+  },
+  "results": {
+    "title": "Your Insurance Estimate",
+    "monthly": "Monthly Cost",
+    "yearly": "Yearly Cost",
+    "breakdown": "Cost Breakdown",
+    "baseRate": "Base Rate",
+    "factors": "Risk Factors",
+    "compare": "Compare Plans",
+    "download": "Download PDF",
+    "share": "Share Results",
+    "newCalculation": "New Calculation"
+  },
+  "footer": {
+    "description": "InsuraCalc.com provides instant insurance cost estimates across multiple countries and insurance types.",
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "contact": "Contact Us"
+    },
+    "copyright": "© 2024 InsuraCalc.com. All rights reserved."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred. Please try again.",
+    "success": "Success!",
+    "required": "This field is required",
+    "invalid": "Invalid value",
+    "select": "Select an option",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "brand": "InsuraCalc.com",
+    "home": "Accueil",
+    "calculator": "Calculateur",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Obtenez des estimations d'assurance instantanées – Partout, à tout moment",
+    "subtitle": "Calculez les coûts d'assurance pour voiture, maison, santé, voyage, vie et entreprise dans plusieurs pays",
+    "cta": "Calculer maintenant",
+    "trusted": "Approuvé par des milliers d'utilisateurs dans le monde"
+  },
+  "calculator": {
+    "title": "Calculateur d'Assurance",
+    "subtitle": "Obtenez des estimations précises pour vos besoins d'assurance",
+    "form": {
+      "insuranceType": "Type d'Assurance",
+      "country": "Pays",
+      "age": "Âge",
+      "value": "Valeur",
+      "location": "Localisation",
+      "coverage": "Niveau de Couverture",
+      "calculate": "Calculer l'Assurance",
+      "reset": "Réinitialiser"
+    },
+    "types": {
+      "car": "Assurance Auto",
+      "home": "Assurance Habitation",
+      "health": "Assurance Santé",
+      "travel": "Assurance Voyage",
+      "life": "Assurance Vie",
+      "business": "Assurance Entreprise"
+    },
+    "countries": {
+      "USA": "États-Unis",
+      "England": "Angleterre",
+      "Europe": "Europe",
+      "Australia": "Australie",
+      "Russia": "Russie"
+    },
+    "coverage": {
+      "basic": "Basique",
+      "standard": "Standard",
+      "premium": "Premium",
+      "comprehensive": "Complet"
+    }
+  },
+  "results": {
+    "title": "Votre Estimation d'Assurance",
+    "monthly": "Coût Mensuel",
+    "yearly": "Coût Annuel",
+    "breakdown": "Détail des Coûts",
+    "baseRate": "Taux de Base",
+    "factors": "Facteurs de Risque",
+    "compare": "Comparer les Plans",
+    "download": "Télécharger PDF",
+    "share": "Partager les Résultats",
+    "newCalculation": "Nouveau Calcul"
+  },
+  "footer": {
+    "description": "InsuraCalc.com fournit des estimations instantanées des coûts d'assurance dans plusieurs pays et types d'assurance.",
+    "links": {
+      "privacy": "Politique de Confidentialité",
+      "terms": "Conditions d'Utilisation",
+      "contact": "Nous Contacter"
+    },
+    "copyright": "© 2024 InsuraCalc.com. Tous droits réservés."
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite. Veuillez réessayer.",
+    "success": "Succès !",
+    "required": "Ce champ est requis",
+    "invalid": "Valeur invalide",
+    "select": "Sélectionner une option",
+    "submit": "Soumettre",
+    "cancel": "Annuler",
+    "save": "Sauvegarder",
+    "edit": "Modifier",
+    "delete": "Supprimer"
+  }
+}

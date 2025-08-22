@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "brand": "InsuraCalc.com",
+    "home": "Startseite",
+    "calculator": "Rechner",
+    "about": "Über uns",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Erhalten Sie sofortige Versicherungsschätzungen – Überall, jederzeit",
+    "subtitle": "Berechnen Sie Versicherungskosten für Auto, Haus, Gesundheit, Reise, Leben und Geschäft in mehreren Ländern",
+    "cta": "Jetzt berechnen",
+    "trusted": "Vertraut von Tausenden von Nutzern weltweit"
+  },
+  "calculator": {
+    "title": "Versicherungsrechner",
+    "subtitle": "Erhalten Sie genaue Schätzungen für Ihre Versicherungsbedürfnisse",
+    "form": {
+      "insuranceType": "Versicherungstyp",
+      "country": "Land",
+      "age": "Alter",
+      "value": "Wert",
+      "location": "Standort",
+      "coverage": "Deckungsniveau",
+      "calculate": "Versicherung berechnen",
+      "reset": "Formular zurücksetzen"
+    },
+    "types": {
+      "car": "Kfz-Versicherung",
+      "home": "Hausratversicherung",
+      "health": "Krankenversicherung",
+      "travel": "Reiseversicherung",
+      "life": "Lebensversicherung",
+      "business": "Geschäftsversicherung"
+    },
+    "countries": {
+      "USA": "Vereinigte Staaten",
+      "England": "England",
+      "Europe": "Europa",
+      "Australia": "Australien",
+      "Russia": "Russland"
+    },
+    "coverage": {
+      "basic": "Grundlegend",
+      "standard": "Standard",
+      "premium": "Premium",
+      "comprehensive": "Umfassend"
+    }
+  },
+  "results": {
+    "title": "Ihre Versicherungsschätzung",
+    "monthly": "Monatliche Kosten",
+    "yearly": "Jährliche Kosten",
+    "breakdown": "Kostenaufschlüsselung",
+    "baseRate": "Grundtarif",
+    "factors": "Risikofaktoren",
+    "compare": "Pläne vergleichen",
+    "download": "PDF herunterladen",
+    "share": "Ergebnisse teilen",
+    "newCalculation": "Neue Berechnung"
+  },
+  "footer": {
+    "description": "InsuraCalc.com bietet sofortige Versicherungskostenschätzungen in mehreren Ländern und Versicherungstypen.",
+    "links": {
+      "privacy": "Datenschutzrichtlinie",
+      "terms": "Nutzungsbedingungen",
+      "contact": "Kontaktieren Sie uns"
+    },
+    "copyright": "© 2024 InsuraCalc.com. Alle Rechte vorbehalten."
+  },
+  "common": {
+    "loading": "Laden...",
+    "error": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut.",
+    "success": "Erfolg!",
+    "required": "Dieses Feld ist erforderlich",
+    "invalid": "Ungültiger Wert",
+    "select": "Option auswählen",
+    "submit": "Absenden",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "edit": "Bearbeiten",
+    "delete": "Löschen"
+  }
+}
