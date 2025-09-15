@@ -1,4 +1,4 @@
-import Navigation from '@/components/Navigation';
+﻿import Navigation from '@/components/Navigation';
 import Footer from '@/components/Footer';
 
 export default function AboutPage() {
@@ -30,23 +30,23 @@ export default function AboutPage() {
             <h2 className="text-2xl font-bold text-gray-900 mb-4">What We Offer</h2>
             <ul className="space-y-3 text-gray-600">
               <li className="flex items-start">
-                <span className="text-primary-600 mr-2">•</span>
+                <span className="text-primary-600 mr-2">â€¢</span>
                 <span>Instant calculations for 6 insurance types: Car, Home, Health, Travel, Life, and Business</span>
               </li>
               <li className="flex items-start">
-                <span className="text-primary-600 mr-2">•</span>
+                <span className="text-primary-600 mr-2">â€¢</span>
                 <span>Coverage for 5 countries: USA, England, Europe, Australia, and Russia</span>
               </li>
               <li className="flex items-start">
-                <span className="text-primary-600 mr-2">•</span>
+                <span className="text-primary-600 mr-2">â€¢</span>
                 <span>Multi-language support in English, French, German, Russian, and Swiss German</span>
               </li>
               <li className="flex items-start">
-                <span className="text-primary-600 mr-2">•</span>
+                <span className="text-primary-600 mr-2">â€¢</span>
                 <span>Advanced algorithms that consider age, value, location, and coverage factors</span>
               </li>
               <li className="flex items-start">
-                <span className="text-primary-600 mr-2">•</span>
+                <span className="text-primary-600 mr-2">â€¢</span>
                 <span>Responsive design that works on all devices</span>
               </li>
             </ul>
@@ -59,11 +59,11 @@ export default function AboutPage() {
               and industry standards. We consider multiple factors including:
             </p>
             <ul className="space-y-2 text-gray-600">
-              <li>• Age and demographic factors</li>
-              <li>• Property or asset value</li>
-              <li>• Geographic location and risk factors</li>
-              <li>• Coverage level and policy type</li>
-              <li>• Country-specific regulations and market conditions</li>
+              <li>â€¢ Age and demographic factors</li>
+              <li>â€¢ Property or asset value</li>
+              <li>â€¢ Geographic location and risk factors</li>
+              <li>â€¢ Coverage level and policy type</li>
+              <li>â€¢ Country-specific regulations and market conditions</li>
             </ul>
           </div>
 
@@ -82,3 +82,5 @@ export default function AboutPage() {
     </main>
   );
 }
+
+

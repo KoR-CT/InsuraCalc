@@ -1,4 +1,4 @@
-import { NextRequest, NextResponse } from 'next/server';
+﻿import { NextRequest, NextResponse } from 'next/server';
 import { calculateInsurance } from '@/lib/insuranceCalculator';
 import { CalculationFormData } from '@/types';
 
@@ -62,3 +62,5 @@ export async function GET() {
     }
   });
 }
+
+

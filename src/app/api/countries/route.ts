@@ -1,4 +1,4 @@
-import { NextResponse } from 'next/server';
+﻿import { NextResponse } from 'next/server';
 import { getAllCountries, getCountryConfig } from '@/lib/insuranceCalculator';
 
 export async function GET() {
@@ -28,3 +28,5 @@ export async function GET() {
     );
   }
 }
+
+

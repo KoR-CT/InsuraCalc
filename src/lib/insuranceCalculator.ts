@@ -1,4 +1,4 @@
-import { Country, InsuranceType, InsuranceCalculation, CalculationFormData, CountryConfig } from '@/types';
+﻿import { Country, InsuranceType, InsuranceCalculation, CalculationFormData, CountryConfig } from '@/types';
 
 // Country configurations with base rates and factors
 const countryConfigs: Record<Country, CountryConfig> = {
@@ -172,3 +172,5 @@ export function getAllCountries(): Country[] {
 export function getAllInsuranceTypes(): InsuranceType[] {
   return ['car', 'home', 'health', 'travel', 'life', 'business'];
 }
+
+

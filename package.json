@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "insuracalc",
   "version": "0.1.0",
   "description": "",
@@ -43,3 +43,5 @@
     "typescript": "^5.9.2"
   }
 }
+
+

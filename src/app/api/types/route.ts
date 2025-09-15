@@ -1,4 +1,4 @@
-import { NextResponse } from 'next/server';
+﻿import { NextResponse } from 'next/server';
 import { getAllInsuranceTypes } from '@/lib/insuranceCalculator';
 
 export async function GET() {
@@ -25,3 +25,5 @@ export async function GET() {
     );
   }
 }
+
+

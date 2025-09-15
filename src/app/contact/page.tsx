@@ -1,4 +1,4 @@
-import Navigation from '@/components/Navigation';
+﻿import Navigation from '@/components/Navigation';
 import Footer from '@/components/Footer';
 
 export default function ContactPage() {
@@ -145,3 +145,5 @@ export default function ContactPage() {
     </main>
   );
 }
+
+

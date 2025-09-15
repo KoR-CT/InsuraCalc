@@ -1,4 +1,4 @@
-export type Country = 'USA' | 'England' | 'Europe' | 'Australia' | 'Russia';
+﻿export type Country = 'USA' | 'England' | 'Europe' | 'Australia' | 'Russia';
 export type InsuranceType = 'car' | 'home' | 'health' | 'travel' | 'life' | 'business';
 export type Language = 'en' | 'fr' | 'de' | 'ru' | 'ch';
 
@@ -44,3 +44,5 @@ export interface LanguageConfig {
   flag: string;
   nativeName: string;
 }
+
+
